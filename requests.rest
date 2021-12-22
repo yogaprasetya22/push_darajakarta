@@ -1,0 +1,26 @@
+POST http://localhost:5006/fasilitas
+
+###
+POST http://localhost:5006/gizi
+
+###
+POST http://localhost:5006/nakes
+
+###
+POST http://localhost:5006/penyakitMenular
+
+###
+POST http://localhost:5006/rsCovid
+
+###
+POST http://localhost:5006/kirimdata
+
+###
+POST http://localhost:5006/regis
+Content-Type: application/json
+
+{
+    username:"yoga",
+    no_telpon:"089612312312",
+    password:"yoga123"
+}
